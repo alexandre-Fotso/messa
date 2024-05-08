@@ -1,0 +1,23 @@
+table{
+     border-collapse: collapse;
+     width: 100px;
+     border-color: rgb(250, 242, 242);
+     color: beige;
+}
+td,tr{
+    border: 1px;
+    padding: 0,5em;text-align: center;
+    border-color: aliceblue;
+}
+body{
+    background-image: url(Aston_Martin_Vantage\,_Paris_Motor_Show_2018\,_IMG_0660.jpg);
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    background-size: cover ;
+    margin: 1px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}

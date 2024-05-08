@@ -1,0 +1,33 @@
+body{
+    margin:40px;
+    background-color:rgb(7, 243, 243);
+}
+.image{
+    width: 600px;
+    overflow: hidden;
+    align-items: center;
+    
+}
+img{
+    max-width: 100%;
+    object-fit: contain;
+    
+    }
+table{
+    border-collapse: collapse;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+button {
+    border: none;
+    background-color: yellow;
+    border-radius: 12px;
+    height: 25px;
+    font-weight: bold;
+    text-align: center;
+    width: 84px;
+}
